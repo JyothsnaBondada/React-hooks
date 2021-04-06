@@ -1,0 +1,8 @@
+.table{
+    margin-left: 4em;
+    margin-top: 4em;
+    margin-right: 4em;
+    height: 2em;
+    border-collapse:collapse;
+    border: 1px solid;
+}

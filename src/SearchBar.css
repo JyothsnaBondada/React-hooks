@@ -1,0 +1,15 @@
+.searchcontainer{
+    position: relative;
+}
+.searchbox{
+    width: 90%;
+    height: 3em;
+    position: absolute;
+    left: 4%;
+    border: 1px solid;
+}
+.icon{
+    position: absolute;
+    left: 92%;
+    top: 0.5em;
+}
